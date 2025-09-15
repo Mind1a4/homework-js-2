@@ -19,7 +19,6 @@
 
    - If two numbers are equal.
    - If one number is greater than the other.
-   - If a string value is equal to a number value using both `==` and `===`.
 
 5. Basic Practice:
 
