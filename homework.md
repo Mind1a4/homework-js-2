@@ -3,7 +3,6 @@
 1. **Basic Tasks:**
 
    - Write a program to check if a number is even or odd.
-   - Check if a string has more than 5 characters.
 
 2. **Intermediate Challenges:**
 
